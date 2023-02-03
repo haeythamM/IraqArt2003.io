@@ -127,13 +127,13 @@ p{
  }
  
  a:hover {
-   background-color: #ddd;
+   /* background-color: #ddd; */
    color: black;
  }
  
  .previous {
-   background-color: #f1f1f1;
-   color: black;
+   background-color:rgba(0, 74, 134, 0.8);
+   color: rgb(255, 255, 255);
  }
  
  .next {
